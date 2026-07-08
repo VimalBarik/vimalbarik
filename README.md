@@ -121,7 +121,7 @@ A complete NLP pipeline for extracting meaningful insights from WhatsApp convers
 
 ---
 
-## 📈 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
 
